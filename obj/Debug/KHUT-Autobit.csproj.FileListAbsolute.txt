@@ -1,0 +1,9 @@
+c:\users\win7-gaming\documents\visual studio 2013\Projects\KHUT-Autobit\KHUT-Autobit\bin\Debug\KHUT-Autobit.exe.config
+c:\users\win7-gaming\documents\visual studio 2013\Projects\KHUT-Autobit\KHUT-Autobit\obj\Debug\KHUT-Autobit.csprojResolveAssemblyReference.cache
+c:\users\win7-gaming\documents\visual studio 2013\Projects\KHUT-Autobit\KHUT-Autobit\obj\Debug\KHUT_Autobit.Form1.resources
+c:\users\win7-gaming\documents\visual studio 2013\Projects\KHUT-Autobit\KHUT-Autobit\obj\Debug\KHUT_Autobit.Properties.Resources.resources
+c:\users\win7-gaming\documents\visual studio 2013\Projects\KHUT-Autobit\KHUT-Autobit\obj\Debug\KHUT-Autobit.csproj.GenerateResource.Cache
+c:\users\win7-gaming\documents\visual studio 2013\Projects\KHUT-Autobit\KHUT-Autobit\bin\Debug\KHUT-Autobit.exe
+c:\users\win7-gaming\documents\visual studio 2013\Projects\KHUT-Autobit\KHUT-Autobit\bin\Debug\KHUT-Autobit.pdb
+c:\users\win7-gaming\documents\visual studio 2013\Projects\KHUT-Autobit\KHUT-Autobit\obj\Debug\KHUT-Autobit.exe
+c:\users\win7-gaming\documents\visual studio 2013\Projects\KHUT-Autobit\KHUT-Autobit\obj\Debug\KHUT-Autobit.pdb
