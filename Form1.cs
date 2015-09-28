@@ -19,7 +19,7 @@ namespace KHUT_Autobit
             InitializeComponent();
         }
         string linkTo64bit = "http://trainer.konghack.com/x64/KongHackTrainer.application";
-        string linkTo32bit = "http://trainer.konghack.com/x64/KongHackTrainer.application";
+        string linkTo32bit = "http://trainer.konghack.com/KongHackTrainer.application";
         private void Form1_Load(object sender, EventArgs e)
         {
             try
